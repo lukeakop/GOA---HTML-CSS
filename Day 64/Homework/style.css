@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color: black;
+}
+.parent{
+
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  background-color: black(0, 0, 0);
+  border: 6px solid black;
+  position: relative;
+  left: 540px;
+  top: 300;
+}
+
+.parent p {
+  width: 100px;
+  color: white;
+  position: absolute;
+  left: 340px;
+  top: 80px;
+  font-weight: bold;
+  font-size: 20px;
+  
+}
+
+.bar {
+
+  width: 100%;
+  height: 100%;
+  border-radius: 100px;
+  border-bottom: 4px  solid white;
+  animation: animation 0.4s infinite;
+}
+
+@keyframes animation {
+  from {
+    transform: rotate(40deg);
+    
+  }
+
+ to {
+  transform: rotate(360deg);
+ }
+}

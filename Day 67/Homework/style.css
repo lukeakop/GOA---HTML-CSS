@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+
+
+.parent {
+  width: 800px;
+  height: 600px;
+  background-color: none;
+  border: 10px solid black;
+  position: relative;
+  left: 370px;
+  top: 100px;
+}
+
+.child{
+  width: 100px;
+  height: 100px;
+  background-color: blueviolet;
+  border: 10px solid black;
+  position: relative;
+  left: 360px;
+  top: 210px;
+  transition: 1s;
+}
+
+.pop{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border: 10px solid black;
+  position: relative;
+  left: 600px;
+  top: 340px;
+  transform: rotate(20deg);
+  transition: 1s;
+}
+
+.child:hover .pop{
+  background-color: wheat;
+  left: 299px;
+  transform: rotate(60deg);
+}

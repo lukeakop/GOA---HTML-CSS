@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.parent {
+  width: 100px;
+  height: 100px;
+  background-color: blueviolet;
+  border: 10px solid black;
+  position: relative;
+  left: 720px;
+  top: 340px;
+  transform: rotate(45deg);
+  transition: width 1s, height 1s, 1s;
+  transition-timing-function: ease-in;
+}
+
+.parent:hover {
+  background-color: red;
+  transform: translate(30px) scale(1.6) rotate(180deg) skew(20deg);
+  width: 200px;
+  height: 200px;
+}
+
+
+/* 
+transition გამოვიყენეთ რათა Smooth ყოფილიყო ფერების გადასვლა
+transition-timing-function გამოვიყენეთ რათა ნელა დაწყებულიყო ანიმაციის განხორციელება შემდეგ ცოტა აესწრაფა და მოულოდნელად შეჩერებულიყო
+ჩვენ როცა შევეხებით Parent ბლოკს ის გარდაიქმნება სხვა ფორმად და ამისთვის ჩვენ ვიყენებთ hover
+ჩვენ transform-ში გაწერილი ფუნქციებით მაგალითად translate-თი ვუცვლით ელემენტს პოზიციას
+scale - თი ჩვენ ვადიდებთ ან ვაპატარავებთ ელემენტს
+rotate - თი ჩვენ ელემენტ ვხრით 180 გრადუსით ( ვატრიალებთ )
+skew - თი ჩვენ ვწელავთ ელემენტს 20 გრადუსით რომელ მხარეზეც გვინდა
+*/
