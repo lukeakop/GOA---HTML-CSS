@@ -1,0 +1,288 @@
+.title {
+
+  text-align: center;
+  
+  }
+
+
+.Text {
+
+  text-align: center;
+
+}
+
+.Slogan {
+  
+  text-align: center;
+
+}
+
+.Text1 {
+
+  text-align: center;
+
+}
+
+.Background {
+
+
+  background-image: url(Background.jpg);
+
+}
+
+.CntcBackground {
+
+  background-image: url(Background.jpg);
+
+}
+
+.SrvcBackground {
+
+  background-image: url(Background.jpg);
+
+}
+
+.img {
+
+  width: 300;
+  height: 200;
+
+}
+
+.action {
+
+  display: flex;
+  flex: 50%;
+  margin-left: 130;
+  width: 50%;
+
+}
+
+.img1 {
+
+  width: 300;
+
+  height: 200;
+
+  display: flex;
+  margin-left: 400px;
+  margin-right: auto;
+  margin-top: -270;
+
+}
+
+.action1 {
+
+  display: flex;
+  margin-left: 500;
+  margin-right: auto;
+  margin-top: -3;
+ 
+
+}
+
+.img2 {
+
+
+  width: 300;
+
+  height: 200;
+
+  display: flex;
+  margin-left: 800;
+  margin-right: auto;
+  margin-top: -270;
+
+}
+
+.action2 {
+
+  display: flex;
+  margin-left: 925;
+  margin-right: auto;
+  margin-top: -3;
+
+}
+
+.img3 {
+
+  width: 300;
+
+  height: 200;
+
+  display: flex;
+  margin-left: 1200;
+  margin-right: auto;
+  margin-top: -270;
+}
+
+.action3 {
+
+  display: flex;
+  margin-left: 1340;
+  margin-right: auto;
+  margin-top: -3;
+  
+
+}
+
+.img4 {
+
+  width: 300;
+
+  height: 200;
+
+
+
+}
+
+.action4 {
+
+  display: flex;
+  margin-left: 120;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.img5 {
+
+  width: 300;
+
+  height: 200;
+
+  display: flex;
+  margin-left: 400px;
+  margin-right: auto;
+  margin-top: -270;
+
+}
+
+.action5 {
+
+  display: flex;
+  margin-left: 535;
+  margin-right: auto;
+  margin-top: -3;
+ 
+
+}
+
+.img6 {
+
+  width: 300;
+
+  height: 200;
+
+  display: flex;
+  margin-left: 800;
+  margin-right: auto;
+  margin-top: -270;
+
+}
+
+.action6 {
+
+  display: flex;
+  margin-left: 1340;
+  margin-right: auto;
+  margin-top: -3;
+
+}
+
+.img7 {
+
+  width: 300;
+
+  height: 200;
+
+  display: flex;
+  margin-left: 1200;
+  margin-right: auto;
+  margin-top: -270;
+
+}
+
+.action7 {
+
+  display: flex;
+  margin-left: 900;
+  margin-right: auto;
+  margin-top: -3;
+
+}
+
+.img8 {
+
+  width: 300;
+
+  height: 200;
+
+  display: flex;
+  margin-left: 400;
+  margin-right: auto;
+
+
+}
+
+.action8{
+
+  display: flex;
+  margin-left: 490;
+  margin-right: auto;
+  margin-top: -3;
+
+}
+
+.img9 {
+
+  width: 300;
+
+  height: 200;
+
+  display: flex;
+  margin-left: 800;
+  margin-right: auto;
+  margin-top: -270;
+
+}
+
+.action9 {
+
+  display: flex;
+  margin-left: 925;
+  margin-right: auto;
+  margin-top: -3;
+
+}
+
+.Sign {
+
+  text-align: center;
+
+}
+
+.text-us {
+
+  text-align: center;
+
+}
+
+.sprt-pic {
+
+  display: flex;
+  margin-left: 520;
+
+}
+
+.list {
+
+  text-align: center;
+
+}
+
+.srvc-pic {
+
+  margin-left: 470;
+
+}

@@ -1,0 +1,25 @@
+.background {
+
+  background-image: url(background.jpg);
+
+}
+
+.title {
+
+  text-align: center;
+  color: white;
+  
+}
+
+.text {
+
+  text-align: center;
+  color: white;
+}
+
+.int {
+
+  color: white;
+  cursor: pointer;
+  
+}

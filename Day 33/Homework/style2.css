@@ -1,0 +1,100 @@
+.background {
+
+  background-image: url(background1.jpg);
+  
+}
+
+.logo {
+
+  flex-direction: column;
+  width: 200;
+  margin-left: 675;
+  margin-top: 100;
+
+}
+
+.butn {
+
+  text-align: center;
+  margin-left: 430;
+  margin-top: 4;
+  display: inline-block;
+  padding: 15px 300px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: auto;
+  color: #fff;
+  background-color: wheat;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px orange;
+
+}
+
+.btn2 {
+
+  text-align: center;
+  margin-left: 430;
+  margin-top: 4;
+  display: inline-block;
+  padding: 15px 254px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: auto;
+  color: #fff;
+  background-color: wheat;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px orange;
+
+}
+
+
+.butn:hover {
+  background-color: lightgoldenrodyellow;
+}
+
+.btn2:hover {
+  background-color: lightgoldenrodyellow;
+}
+
+.welcmtxt {
+
+  text-align: center;
+  margin-left: -165;
+  font-size: 30;
+  color:lightsalmon;
+
+}
+
+.cntc {
+
+  margin-left: 680;
+  color: slateblue;
+  font-size: 30;
+
+}
+
+.phnu {
+
+  margin-left: 700;
+  margin-top: 10;
+  color: orange;
+  font-size: 30;
+
+}
+
+.slogan {
+
+  margin-left: 150;
+  font-size: 40;
+  color: lightsalmon;
+
+}
+
+
+
