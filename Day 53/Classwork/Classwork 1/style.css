@@ -1,0 +1,16 @@
+a {
+  background-color: black;
+}
+
+
+a:hover {
+  background-color: #333;
+  color: #fff;
+
+}
+
+a:active {
+
+  background-color: green;
+
+}

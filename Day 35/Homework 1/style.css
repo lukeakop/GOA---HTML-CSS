@@ -1,0 +1,155 @@
+.background {
+
+  background-image: url(background.jpg);
+
+}
+
+.txt {
+
+  color: white;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 100;
+   
+}
+
+.txt2 {
+
+  color: white;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+   
+}
+
+.txt3 {
+
+  color: white;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+   
+}
+
+.txt4 {
+
+  color: white;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+   
+}
+
+.img {
+
+  margin-left: 610;
+}
+
+.btn {
+
+  color: white;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+  margin-left: 639;
+
+}
+
+.btn2 {
+
+  color: white;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+  margin-left: 656;
+  margin-top: 10;
+
+}
+
+.btn:hover {
+
+  cursor: pointer;
+  background-color: green;
+
+}
+
+.btn2:hover {
+
+  cursor: pointer;
+  background-color: green;
+
+}
+
+.lbl {
+
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 220;
+
+}
+
+.lbl1 {
+
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.lbl2 {
+
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.lbl3 {
+
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.lbl4 {
+
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.lbl5 {
+
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10;
+}
+
+.click {
+
+  margin-left: -10;
+  margin-top: 10;
+  background-color: black;
+  color: white;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.click:hover {
+
+  cursor: pointer;
+  background-color: green;
+
+}

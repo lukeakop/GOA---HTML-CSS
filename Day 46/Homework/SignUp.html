@@ -1,0 +1,179 @@
+<html>
+
+    
+    <head>
+
+      <title>Sign Up</title>
+
+      <style>
+
+        .body {
+          background-image: url(background.jpg);
+        }
+
+        .form {
+          color: white;
+          text-align: center;
+          font-family: 'Major Mono Display', monospace;
+          font-size: 20px;
+          margin-top: 100;
+          margin-left: 10;
+          flex-direction: column;
+        }
+
+        .button {
+          color: white;
+          text-align: center;
+          font-family: 'Major Mono Display', monospace;
+          font-size: 35px;
+          margin-top: -15;
+          margin-left: 7;
+          background-color: blueviolet;
+          border-radius: 10px;
+          border-color: blueviolet;
+          width: 400;
+          height: 50;  
+          
+        }
+
+        .input {
+          color: black;
+          text-align: center;
+          font-family: 'Major Mono Display', monospace;
+          font-size: 25px;
+          background-color: white;
+          border-radius: 10px;
+          flex-direction: column;
+        }
+
+        input:hover {
+          box-shadow: 10px 2px 6px violet;}
+
+        
+
+        .h2 {
+          color: white;
+          text-align: center;
+          font-family: 'Major Mono Display', monospace;
+          font-size: 20px;
+          margin-top: 17;
+          flex-direction: column;
+          
+        }
+
+        .nav-to-loginpage {
+          color: white;
+          text-align: center;
+          font-family: 'Major Mono Display', monospace;
+          font-size: 20px;
+          margin-top: -10;
+          flex-direction: column;
+        }
+
+        .nav-to-loginpagetxt {
+          color: white;
+          text-align: center;
+          font-family: 'Major Mono Display', monospace;
+          font-size: 20px;
+          margin-top: 20;
+          margin-left: 15;
+          flex-direction: column;
+        }
+
+        
+
+        
+
+        .sign-submit {
+          color: white;
+          text-align: center;
+          font-family: 'Major Mono Display', monospace;
+          font-size: 40px;
+          margin-top: 10;
+          margin-left: -10;
+          background-color: blueviolet;
+          border-radius: 10px;
+          border-color: violet;
+          border-width: 4;
+          flex-direction: column;
+        }
+
+        .sign-submit:hover {
+          box-shadow: 10px 2px 6px violet;
+        }
+
+        .pointer {
+          width: 250;
+          margin-right: 750;
+          margin-top: -300;
+        }
+
+      </style>
+
+    </head>
+
+    <body class="body">
+
+
+      <form class="form">
+
+        <button class="button">Sign Up</button>
+
+        <br>
+        <br>
+
+
+        
+
+        <input class="input" type="text" name="Name" placeholder="Name" required>
+
+        <br>
+        <br>
+
+        <input class="input" type="text" name="Surname" placeholder="Surname" required>
+
+        <br>
+        <br>
+
+        <input class="input" type="email" name="email" placeholder="Email" required>
+        
+        <br>
+        <br>
+
+        <input class="input" type="password" name="password" placeholder="Password" required>
+
+        <br>
+        <br>
+
+        <input class="input" type="password" name="Confirm Password" placeholder="Confirm Password" required>
+
+        <br>
+        <br>
+        <img class="pointer" src="Pointer.png" alt="">
+        <br>
+
+        <label for="male">Male</label>
+        <input type="radio" name="male" value="male" required>
+          &nbsp;&nbsp;
+
+        <label for="female">Female</label>
+        <input type="radio" name="female" value="female" required>
+
+        <br>
+        <br>
+
+        <button type="submit" class="sign-submit">Sign Up</button>
+
+      </form>
+
+      <h3 class="nav-to-loginpagetxt">Already have an account? <a class="nav-to-loginpage" href="Login.html">Log In</a></h3>
+
+      
+
+      
+    </body>
+
+
+
+
+</html>

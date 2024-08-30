@@ -1,0 +1,212 @@
+body {
+
+  background-image: url(background.jpg);
+
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  
+}
+
+.heading {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.para {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+.para2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  margin-left: -1000;
+  margin-top: 220;
+  font-size: 50;
+}
+
+.button {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  background-color: rgb(187, 190, 7);
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-left: 290;
+
+}
+
+.button2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  background-color: rgb(187, 190, 7);
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-left: 101;
+  margin-top: -69;
+  
+}
+
+.button3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  background-color: black(187, 190, 7);
+  border: none;
+  padding: 0px 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-left: 45;
+  margin-top: -550;
+  width: 85;
+  
+}
+
+.button4 {
+  
+  font-size: 1px;
+  color: black;
+  text-align: center;
+  background-color: black(187, 190, 7);
+  border: color(black, black);
+  padding: 0px 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-left: 140;
+  margin-top: -544;
+  width: 72;
+
+}
+.clr {
+  color: rgb(216, 220, 28);
+}
+
+.clr2 {
+  font-size: 50;
+  color: yellow;
+  margin-left: 1150;
+}
+
+.input {
+  font-size: 20;
+  color: black;
+  text-align: center;
+  background-color: white;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 8px;
+  margin-left: 625;
+
+}
+
+.buttons {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  background-color: rgb(187, 190, 7);
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-left: 693;
+  margin-top: 20;
+
+}
+
+.starrs {
+  margin-left: 1250;
+  margin-top: -450;
+  width: 35;
+}
+
+.starrs2 {
+  margin-left: 1350;
+  margin-top: -350;
+  width: 25;
+}
+
+.starrs3 {
+  margin-left: 1154;
+  margin-top: -550;
+  width: 45;
+}
+
+.gender {
+  font-size: 20;
+  color: white;
+  text-align: center;
+  margin-left: 685;
+
+}
+
+.gender2 {
+  font-size: 20;
+  color: white;
+  text-align: center;
+  margin-left: 10;
+  margin-top: 20;
+
+}
+
+.clr3 {
+  font-size: 50;
+  color: yellow;
+  margin-left: 50;
+  margin-top: -600;
+  
+
+}
+
+.clr4 {
+  font-size: 50;
+  color: yellow;
+  margin-left: 50;
+  margin-top: -25;
+
+}

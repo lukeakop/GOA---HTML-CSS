@@ -1,0 +1,20 @@
+.paragraph {
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+  margin: 10px 10px 30px 30px;
+  border-top: 10px  solid darkgreen;
+  border-right: 15px dotted green;
+  border-bottom: 20px dashed ;
+  border-left: 20px double yellow;
+  box-sizing: border-box;
+
+  
+  
+  align-items: center;
+  display: flex;
+
+  
+    
+  
+}

@@ -1,0 +1,75 @@
+.bdy {
+  background-color: black;
+}
+
+.cnt {
+  text-align: center;
+  color: white;
+  flex-direction: column;
+  width: 100%;
+}
+
+.h2t {
+  color: black;
+  margin-top: -42;
+  margin-left: 230;
+  font-size: 20;
+}
+
+.img1 {
+  margin-left: 158;
+  margin-top: 100;
+}
+
+.ond1 p {
+  color: wheat;
+  margin-left: 50;
+  font-size: 20;
+}
+
+.ond2 {
+  color: white;
+  margin-top: -240;
+  margin-left: 641;
+  flex-direction: row;
+}
+
+.ond2 h2 {
+  margin-top: -40;
+  font-size: 20;
+  color: black;
+  margin-left: 70;
+}
+
+.ond2 p {
+  color: wheat;
+  font-size: 20;
+  margin-top: -2;
+  margin-left: -40;
+}
+
+.ond3 {
+  margin-left: 1100;
+  margin-top: -185;
+  color: wheat;
+  flex-direction: column;
+}
+
+.ond3 h2 {
+  margin-left: -40;
+  margin-top:30;
+}
+
+.img2 {
+  margin-top: -90;
+  margin-left: 150;
+  width: 70;
+}
+
+.anop {
+  color: wheat;
+  margin-top: 350;
+  text-align: center;
+  flex-direction: column;
+}
+
